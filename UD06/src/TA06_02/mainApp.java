@@ -1,7 +1,5 @@
 package TA06_02;
 
-import java.util.Iterator;
-
 import javax.swing.JOptionPane;
 
 public class mainApp {
